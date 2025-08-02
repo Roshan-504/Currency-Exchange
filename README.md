@@ -39,7 +39,7 @@ A simple, intuitive, and responsive web app for converting currencies in real-ti
    ```bash
    git clone https://github.com/Roshan-504/Currency-Exchange.git
    cd Currency-Exchange
-```
+   ```
 
 2. **Open `index.html` in your browser:**
    No build tools or servers required – this is a pure frontend app!
